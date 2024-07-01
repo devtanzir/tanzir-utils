@@ -7,14 +7,14 @@
   "author": "Tanzir Ibne Ali",
   "homepage": "https://tanziribneali.vercel.app/",
   "bugs": {
-    "url": "https://github.com/example/my-project/issues",
+    "url": "https://github.com/devtanzir/tanzir-utils/issues",
     "email": "tanziribneali@gmail.com"
   },
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/example/my-project.git"
+    "url": "https://github.com/devtanzir/tanzir-utils"
   },
   "private": true
 
