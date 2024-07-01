@@ -1,0 +1,21 @@
+{
+  "name": "tanzir-utils",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A Library to make fun of arrays, easy to use and a life saver Library for developers",
+  "keywords": ["array-utils", "chunk array", "divide an array", "utils"],
+  "author": "Tanzir Ibne Ali",
+  "homepage": "https://tanziribneali.vercel.app/",
+  "bugs": {
+    "url": "https://github.com/example/my-project/issues",
+    "email": "tanziribneali@gmail.com"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/example/my-project.git"
+  },
+  "private": true
+
+}
