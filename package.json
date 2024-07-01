@@ -16,7 +16,7 @@
     "email": "tanziribneali@gmail.com"
   },
   "license": "MIT",
-  "main": "index.js",
+  "main": "array.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/devtanzir/tanzir-utils"
